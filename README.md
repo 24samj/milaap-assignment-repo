@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # milaap-assignment
 # milaap-assignment
 # milaap-assignment-repo
+# milaap-assignment-repo
